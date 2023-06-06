@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MufidAlhamami
+- 👋 Hi, I’m Mufid Alhamami
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Machine learning algorithms, Python libraries, intelligent data analysis, and prediction.
 - 💞️ I’m looking to collaborate on data science and analysis projects
